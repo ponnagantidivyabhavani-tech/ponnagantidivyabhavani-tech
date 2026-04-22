@@ -36,18 +36,15 @@
 <img src="https://skillicons.dev/icons?i=html,css,python" />
 <br/><br/>
 </td>
-
-<tr>
 <td width="50%" align="center">
-  <h3>🗄️ Databases</h3>
-    <img src="https://skillicons.dev/icons?i=Sql-Server" />
+<h3>💻 Programming Languages</h3>
+<img src="https://skillicons.dev/icons?i=html,css,python" />
 <br/><br/>
-</td>
-<td width="50%" align="center">
-    <h3>🧰 Tools \& Platforms</h3>
-<img src="https://skillicons.dev/icons?i=Sql-Server" />
+</td
 
-</td>
+
+
+
 </tr>
 </table>
 </p>
