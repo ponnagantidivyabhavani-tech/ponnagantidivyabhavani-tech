@@ -33,8 +33,9 @@
 <tr>
 <td width="50%" align="center">
 <h3>💻 SQL | Power BI | MS Excel </h3>
-<img src= "<img width="612" height="408" alt="1756377157954-removebg-preview" src="https://github.com/user-attachments/assets/13d349d7-84fb-4c67-9b8f-8e4c41033530" >
- >
+<img src= "https://github.com/user-attachments/assets/bc977873-eb7c-4466-b138-40607adb98df" >
+
+ 
 <br/><br/>
 </td>
 <td width="50%" align="center">
