@@ -33,7 +33,8 @@
 <tr>
 <td width="50%" align="center">
 <h3>💻 SQL | Power BI | MS Excel </h3>
-<img src="https://media.licdn.com/dms/image/v2/D4D22AQGIw-Kjx_14pg/feedshare-shrink_800/B4DZjwPHw_H4Ao-/0/1756377157954?e=2147483647&v=beta&t=yJ90d73fxVT-8Qv-cAzquJkf0OXUeiaS5FCkzCbsc94 " >
+<img src= "<img width="612" height="408" alt="1756377157954-removebg-preview" src="https://github.com/user-attachments/assets/13d349d7-84fb-4c67-9b8f-8e4c41033530" >
+ >
 <br/><br/>
 </td>
 <td width="50%" align="center">
