@@ -45,8 +45,8 @@
 </td>
 <td width="50%" align="center">
     <h3>🧰 Tools \& Platforms</h3>
-    <img src="<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/66eb0745-436d-4bf5-964b-9f8b10ac0a4b" />
-" />
+<img src="https://skillicons.dev/icons?i=Sql-Server" />
+
 </td>
 </tr>
 </table>
