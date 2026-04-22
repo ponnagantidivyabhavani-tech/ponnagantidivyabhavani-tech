@@ -32,8 +32,8 @@
 <table>
 <tr>
 <td width="50%" align="center">
-<h3>💻 Programming Languages</h3>
-<img src="https://skillicons.dev/icons?i=html,css,python" />
+<h3>💻 SQL | Power BI | MS Excel </h3>
+<img src="https://media.licdn.com/dms/image/v2/D4D22AQGIw-Kjx_14pg/feedshare-shrink_800/B4DZjwPHw_H4Ao-/0/1756377157954?e=2147483647&v=beta&t=yJ90d73fxVT-8Qv-cAzquJkf0OXUeiaS5FCkzCbsc94 " >
 <br/><br/>
 </td>
 <td width="50%" align="center">
