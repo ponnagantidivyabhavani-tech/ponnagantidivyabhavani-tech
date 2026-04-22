@@ -37,12 +37,7 @@
 
  
 <br/><br/>
-</td>
-<td width="50%" align="center">
-<h3>💻 Programming Languages</h3>
-<img src="https://skillicons.dev/icons?i=html,css,python" />
-<br/><br/>
-</td
+
 
 
 
